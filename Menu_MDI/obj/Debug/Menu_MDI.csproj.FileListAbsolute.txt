@@ -1,0 +1,12 @@
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\Menu_MDI\bin\Debug\Menu_MDI.exe.config
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\Menu_MDI\bin\Debug\Menu_MDI.exe
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\Menu_MDI\bin\Debug\Menu_MDI.pdb
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\Menu_MDI\obj\Debug\Menu_MDI.csproj.AssemblyReference.cache
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\Menu_MDI\obj\Debug\Menu_MDI.Properties.Resources.resources
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\Menu_MDI\obj\Debug\Menu_MDI.csproj.GenerateResource.cache
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\Menu_MDI\obj\Debug\Menu_MDI.csproj.CoreCompileInputs.cache
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\Menu_MDI\obj\Debug\Menu_MDI.exe
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\Menu_MDI\obj\Debug\Menu_MDI.pdb
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\Menu_MDI\obj\Debug\Menu_MDI.frm_Menu.resources
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\Menu_MDI\obj\Debug\Menu_MDI.frm_1.resources
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\Menu_MDI\obj\Debug\Menu_MDI.frm_2.resources

@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAPPHU\\Desktop\\Code.Net\\WF1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF359DDE-E388-4F07-949E-DE48FF9AD734}|Menu_MDI\\Menu_MDI.csproj|c:\\users\\lapphu\\desktop\\code.net\\wf1\\menu_mdi\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF359DDE-E388-4F07-949E-DE48FF9AD734}|Menu_MDI\\Menu_MDI.csproj|solutionrelative:menu_mdi\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF359DDE-E388-4F07-949E-DE48FF9AD734}|Menu_MDI\\Menu_MDI.csproj|C:\\Users\\LAPPHU\\Desktop\\Code.Net\\WF1\\menu_mdi\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF359DDE-E388-4F07-949E-DE48FF9AD734}|Menu_MDI\\Menu_MDI.csproj|solutionrelative:menu_mdi\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF359DDE-E388-4F07-949E-DE48FF9AD734}|Menu_MDI\\Menu_MDI.csproj|C:\\Users\\LAPPHU\\Desktop\\Code.Net\\WF1\\menu_mdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF359DDE-E388-4F07-949E-DE48FF9AD734}|Menu_MDI\\Menu_MDI.csproj|solutionrelative:menu_mdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMenu.cs",
+              "DocumentMoniker": "C:\\Users\\LAPPHU\\Desktop\\Code.Net\\WF1\\Menu_MDI\\FormMenu.cs",
+              "RelativeDocumentMoniker": "Menu_MDI\\FormMenu.cs",
+              "ToolTip": "C:\\Users\\LAPPHU\\Desktop\\Code.Net\\WF1\\Menu_MDI\\FormMenu.cs",
+              "RelativeToolTip": "Menu_MDI\\FormMenu.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwCUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:13:53.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAPPHU\\Desktop\\Code.Net\\WF1\\Menu_MDI\\Program.cs",
+              "RelativeDocumentMoniker": "Menu_MDI\\Program.cs",
+              "ToolTip": "C:\\Users\\LAPPHU\\Desktop\\Code.Net\\WF1\\Menu_MDI\\Program.cs",
+              "RelativeToolTip": "Menu_MDI\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:12:57.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAPPHU\\Desktop\\Code.Net\\WF1\\Menu_MDI\\FormMenu.cs",
+              "RelativeDocumentMoniker": "Menu_MDI\\FormMenu.cs",
+              "ToolTip": "C:\\Users\\LAPPHU\\Desktop\\Code.Net\\WF1\\Menu_MDI\\FormMenu.cs [Design]",
+              "RelativeToolTip": "Menu_MDI\\FormMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:12:11.792Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\WF1\bin\Debug\WF1.exe.config
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\WF1\bin\Debug\WF1.exe
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\WF1\bin\Debug\WF1.pdb
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\WF1\obj\Debug\WF1.csproj.AssemblyReference.cache
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\WF1\obj\Debug\WF1.Properties.Resources.resources
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\WF1\obj\Debug\WF1.csproj.GenerateResource.cache
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\WF1\obj\Debug\WF1.csproj.CoreCompileInputs.cache
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\WF1\obj\Debug\WF1.exe
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\WF1\obj\Debug\WF1.pdb
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\WF1\obj\Debug\WF1.frm_QLSinhVien.resources
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\WF1\obj\Debug\WF1.frm_PhepTinh.resources
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\WF1\obj\Debug\WF1.frm_Login.resources
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\WF1\obj\Debug\WF1.frm_Mang.resources
+C:\Users\LAPPHU\Desktop\Code.Net\WF1\WF1\obj\Debug\WF1.frm_ListBox.resources
